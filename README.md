@@ -1,7 +1,7 @@
 
 # Compiler Design Lab
 
-Compiler Design Lab Practicals and File - 
+Compiler Design Lab Practicals and File
 
 -  Introduction to Compiler Design
 
