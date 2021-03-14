@@ -2,7 +2,7 @@
 Program to implement SLR Parser and recognize string.
 
 #### Input
-- enter the grammer production rules
+- Input grammer production rules
 
 #### Output
 - After reading language grammar rules from text file, the grammar rules are displayed. 
